@@ -1,2 +1,1 @@
-# rsschool-cv
-Hello world
+https://DeepDunge0n.github.io/rsschool-cv/cv
