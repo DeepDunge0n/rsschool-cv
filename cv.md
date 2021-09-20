@@ -12,7 +12,7 @@
     * HTML&CSS;
     * GIT.
 5. ### **Code example** ###  
-    ```
+    ```console.log('Hello world');```
 6. ### **Work Expirience** ###  
     *Noting yet...*
 7. ### **Education and courses** ###  
